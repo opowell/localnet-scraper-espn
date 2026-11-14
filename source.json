@@ -1,0 +1,9 @@
+{
+  "scrapers": [
+    {
+      "name": "ESPN",
+      "urlPattern": "espn.com"
+    }
+  ],
+  "file": "espn.js"
+}
